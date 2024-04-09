@@ -1,0 +1,11 @@
+.f1 {
+	background-color: #ffffff;
+	font-family: Montserrat, sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 0vh;
+	margin: 0;
+    
+}
